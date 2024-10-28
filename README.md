@@ -14,11 +14,7 @@ The Salesforce Dependent Picklist Exporter is designed to enhance the user exper
 
 ## How to Install
 
-1. Download the extension files.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable "Developer mode" at the top right.
-4. Click on "Load unpacked" and select the folder containing the extension files.
-5. The extension should now be installed and ready to use!
+Go to : [Salesforce Picklist Exporter](https://chromewebstore.google.com/detail/salesforce-picklist-expor/cjfgpeakgpojmkogpkhpnkkneffcoobh)
 
 ## How to Report an Issue
 
